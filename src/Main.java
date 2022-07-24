@@ -5,7 +5,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 public class Main {
 
-    private static final int SIZE = 1_000;
+    private static final int SIZE = 1_000_000;
 
     public static void main(String[] args) throws InterruptedException {
 
